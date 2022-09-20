@@ -1,7 +1,8 @@
 # liferay-user-enum
+## about
 liferay portal username enumeration
 ```
-for liferay portal version 7.0.0 - 7.4.2
+liferay portal version 7.0.0 - 7.4.2
 ```
 ## how to use
 ```
